@@ -21,6 +21,4 @@ Skills: Laravel / Livewire / JS / HTML / CSS
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=merajulislamsajeeb)  
 
-![GitHub metrics](https://metrics.lecoq.io/merajulislamsajeeb)  
-
 ![Profile views](https://gpvc.arturio.dev/merajulislamsajeeb)  
