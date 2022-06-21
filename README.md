@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Merajul Islam sajeeb
 #### Web || SEO || AI
-![Web || SEO || AI](https://scontent.fdac5-2.fna.fbcdn.net/v/t39.30808-6/287295129_1997878650404933_6517537075083956740_n.jpg?stp=dst-jpg_p180x540&_nc_cat=103&ccb=1-7&_nc_sid=e3f864&_nc_ohc=k5L6Yrp9194AX8xnD9U&_nc_ht=scontent.fdac5-2.fna&oh=00_AT-sTbya-Criq3PQu8jgH1RtWRMemL9WJ9r5TRO_4QtDpw&oe=62B47E79)
+![Web || SEO || AI](https://scontent.fdac5-2.fna.fbcdn.net/v/t39.30808-6/288589695_2005878266271638_6937843672383195297_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeEfKwnZdxfqOHe10huPL4l6IgHQ6MnXd8MiAdDoydd3w8kroUlKVW0mR0JVgkHxrg42vHfiGDui4bJ6TgCeEjtA&_nc_ohc=4jQfgT1gDX0AX9gZkB4&_nc_ht=scontent.fdac5-2.fna&oh=00_AT9Cu8fbNdcyxh41e_wO9z5NSqe8ZLKSl3qkXD-_Sbo2Bw&oe=62B6B5F2)
 
 A Full-stack Web Developer & SEO Expert. I completed my B.sc Engineering from Bangladesh University in Computer Science & Engineering (CSE). I also completed my H.S.C from Milestone college Uttara Dhaka.
 
