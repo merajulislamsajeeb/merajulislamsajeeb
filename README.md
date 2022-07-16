@@ -1,8 +1,9 @@
 ### Hi there 👋, my name is Merajul Islam sajeeb
 #### Web || SEO || AI
-![Web || SEO || AI]
 
-A Full-stack Web Developer & SEO Expert. I completed my B.sc Engineering from Bangladesh University in Computer Science & Engineering (CSE). I also completed my H.S.C from Milestone college Uttara Dhaka.
+I am a full-stack web developer and seo expert. I have worked on a wide range of projects, from small personal websites to large corporate portals. I have also gained a lot of experience in search engine optimization and online marketing.
+
+If you need help with anything related to web development or SEO, feel free to contact me. I would be more than happy to help you out!
 
 Skills: Laravel / Livewire / JS / HTML / CSS
 
