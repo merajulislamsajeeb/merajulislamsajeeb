@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Merajul Islam sajeeb
 #### Web || SEO || AI
-![Web || SEO || AI](https://scontent.fdac116-1.fna.fbcdn.net/v/t39.30808-6/288589695_2005878266271638_6937843672383195297_n.jpg?stp=dst-jpg_p180x540&_nc_cat=105&ccb=1-7&_nc_sid=e3f864&_nc_ohc=gL_HL3UgK_YAX9sfwmj&_nc_ht=scontent.fdac116-1.fna&oh=00_AT-0SBMIZKpymtGtHNGPod0UOBQLYxwxPGCD8OYXEI__Ug&oe=62BCA4B2)
+![Web || SEO || AI]
 
 A Full-stack Web Developer & SEO Expert. I completed my B.sc Engineering from Bangladesh University in Computer Science & Engineering (CSE). I also completed my H.S.C from Milestone college Uttara Dhaka.
 
