@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Merajul Islam sajeeb
+### Hi there 👋, My name is Merajul Islam sajeeb
 #### Web || SEO || AI
 
 I am a full-stack web developer and seo expert. I have worked on a wide range of projects, from small personal websites to large corporate portals. I have also gained a lot of experience in search engine optimization and online marketing.
