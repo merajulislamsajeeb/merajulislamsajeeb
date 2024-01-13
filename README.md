@@ -1,15 +1,7 @@
-### Hi there 👋, My name is Merajul Islam sajeeb
-#### Web || SEO || Machine Learnig || NLP
+### Hi there 👋, My name is Merajul Islam Sajeeb
+#### Research || SEO || Machine Learning || NLP
 
-I am Merajul Islam Sajeeb, a renowned Digital marketing and SEO expert in BD. With 3 years of experience in the Digital marketing and SEO field, I have consistently delivered outstanding results to clients across various industries.
-
-My mastery of search engine optimization techniques has propelled businesses to the top of SERPs, increasing their online visibility and driving organic traffic. My proven track record in optimizing websites, creating high-quality content, and implementing effective link-building strategies has solidified My reputation as a trusted SEO professional.
-
-My technical skills include keyword research, on-page optimization, link building, website audits, and analytics. I also have experience with content creation and social media management, which allows me to take a holistic approach to digital marketing.
-
-But it's not just about technical skills; My ability to adapt to evolving search engine algorithms and trends sets me apart. I stay at the forefront of digital marketing innovations, ensuring that My clients stay ahead of the competition.
-
-If you need help with anything related to web development or SEO, feel free to contact me. I would be more than happy to help you out!
+I am Merajul Islam Sajeeb a Technical SEO consultant in Dhaka. A highly skilled and motivated Digital Marketing and Best SEO Expert in BD with over 3 years of proven experience. I have a diverse skillset that allows me to offer comprehensive solutions for businesses of all sizes, helping them achieve their online goals. My expertise lies in Digital marketing and SEO strategy, E-commerce business, and IT support. If you are looking for a reliable and experienced SEO, Digital Marketing, and IT support partner in Bangladesh, then look no further than Merajul Islam Sajeeb. I am confident that I can help you achieve your online goals and take your business to the next level. Contact me today for a free consultation!
 
 Skills: WordPress|Laravel | Livewire | JS | HTML | CSS
 
